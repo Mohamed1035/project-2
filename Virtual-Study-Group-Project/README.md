@@ -1,5 +1,5 @@
 # Project 2: Virtual Study Group
-    Cy Miller, Sara Ram, Gorkem Varol, Jacqueline Nguyen, Helen Akinyele, Mohamed Ismael, and Ahmed Mohamed
+    Cy Miller, Sara Ram, Ahmed Mohamed, Gorkem Varol, Jacqueline Nguyen, Mohamed Ismael, and Helen Akinyele 
 
 We will be creating a Web application that takes input parameters and uses them to select an effective study partner or create their own study group. Eg. student location, subject, time, desired cohort, and level of coursework. This information will be stored in a database and when new input is created, relevant students (those with similar needs) will be shown to the user. 
 
