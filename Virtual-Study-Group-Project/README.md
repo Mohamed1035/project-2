@@ -1,5 +1,5 @@
 # Project 2: Virtual Study Group
-    Cy Miller, Sara Ram, Gorkem Varol, Jacqueline Nguyen, and Helen Akinyele
+    Cy Miller, Sara Ram, Gorkem Varol, Jacqueline Nguyen, Helen Akinyele, Mohamed Ismael, and Ahmed Mohamed
   Project Link: https://github.com/Cfood/Project-2                                                                        
   Presentation Link: https://docs.google.com/presentation/d/1z__QwYtyAKePWCiVSh4yOpPjiTued1CF8--dpbNj8i0/edit?usp=sharing  
   
